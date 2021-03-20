@@ -5,6 +5,7 @@ import 'EscenariosScreens/Banio/ListarObjetosBanio.dart';
 import 'EscenariosScreens/Cocina/ListarObjetosCocina.dart';
 import 'EscenariosScreens/Recamara/ListarObjetosRecamara.dart';
 
+//Se crean los escenarios : Cocina, baño y recamara
 class Menu extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
